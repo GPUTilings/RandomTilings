@@ -1,3 +1,6 @@
+#ifndef DOMINO_DOMINOTILER_H_
+#define DOMINO_DOMINOTILER_H_
+
 /*
  * dominoTiler.h
  *
@@ -34,8 +37,6 @@
  * at the boundary of the array, and their neighbors be zero.
  */
 
-#ifndef DOMINO_DOMINOTILER_H_
-#define DOMINO_DOMINOTILER_H_
 
 #include "../common/common.h"
 

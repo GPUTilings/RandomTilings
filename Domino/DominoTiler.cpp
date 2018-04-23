@@ -1,20 +1,6 @@
-#include <cmath>
 #include "DominoTiler.h"
-#include "../TinyMT/file_reader.h"
-
-#include <cstdio>
-#include <cstdlib>
-#include <vector>
-#include <queue>
-#include <iostream>
-#include <fstream>
-#include <sstream>
-#include <string>
-#include <cstring>
-#include <climits>
-#include <random>
-#include <chrono>
 #include "../common/common.h"
+#include "../TinyMT/file_reader.h"
 
 /*
  * These are the core functions.

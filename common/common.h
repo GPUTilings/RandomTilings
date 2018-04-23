@@ -1,16 +1,16 @@
-/* common.h
- *
- * Contains some utility functions.
- *
- */
-
-
 #ifndef SRC_COMMON_UTIL_H_
 #define SRC_COMMON_UTIL_H_
 
-#define __CL_ENABLE_EXCEPTIONS
+/* common.h
+ *
+ *  Created on: 2017
+ *      Author: David, Ananth
+ *
+ * This header contains some utility functions.
+ *
+ */
 
-#define infty INT_MAX
+#define __CL_ENABLE_EXCEPTIONS
 
 #ifdef __APPLE__
 #include "cl.hpp"
@@ -18,9 +18,24 @@
 #include <CL/cl.hpp>
 #endif
 
+#include <cmath>
 #include <string>
 #include <climits>
 #include <vector>
+#include <cstdio>
+#include <cstdlib>
+#include <vector>
+#include <queue>
+#include <stack>
+#include <time.h>
+#include <iostream>
+#include <fstream>
+#include <sstream>
+#include <string>
+#include <cstring>
+#include <climits>
+#include <random>
+#include <chrono>
 
 #define infty INT_MAX
 #define sqrt3 1.7320508075688772935274
@@ -57,21 +72,16 @@ std::vector<int> LoadMatrix(std::string filename);
 cl::Program LoadCLProgram(cl::Context context, std::vector<cl::Device> devices, std::string input);
 
 // We should get rid of these at some point.
-struct incheightPriority
-{
-	bool operator()(std::pair<std::pair<int,int>, int> a, std::pair<std::pair<int,int>, int> b) const
-	{
+struct incheightPriority {
+	bool operator()(std::pair<std::pair<int,int>, int> a, std::pair<std::pair<int,int>, int> b) const {
 			return a.second < b.second;
 	}
 };
 
-struct decheightPriority
-{
-	bool operator()(std::pair<std::pair<int,int>, int> a, std::pair<std::pair<int,int>, int> b) const
-	{
+struct decheightPriority {
+	bool operator()(std::pair<std::pair<int,int>, int> a, std::pair<std::pair<int,int>, int> b) const {
 		return a.second > b.second;
 	}
 };
-
 
 #endif /* SRC_COMMON_UTIL_H_ */
