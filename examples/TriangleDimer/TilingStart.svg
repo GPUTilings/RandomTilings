@@ -1,0 +1,16 @@
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink="http://www.w3.org/1999/xlink" height="433.013" width="500" viewBox="0 0 13.5 13.5" preserveAspectRatio="none">
+<defs>
+<g id="dR">  <polygon points = "1,-0.6666666667 0.5,-0.3333333333 0.5,0.3333333333 0,0.6666666667 0,1.333333333 0.5,1.666666667 1,1.333333333 1,0.6666666667 1.5,0.3333333333 1.5,-0.3333333333" fill="darkblue" stroke="black" stroke-width=".05"/></g>
+<g id="dL">  <polygon points = "0,-0.6666666667 0.5,-0.3333333333 0.5,0.3333333333 1,0.6666666667 1,1.333333333 0.5,1.666666667 0,1.333333333 0,0.6666666667 -0.5,0.3333333333 -0.5,-0.3333333333" fill="darkred" stroke="black" stroke-width=".05"/></g>
+<g id="dH">  <polygon points = "0,-0.6666666667 0.5,-0.3333333333 1,-0.6666666667 1.5,-0.3333333333 1.5,0.3333333333 1,0.6666666667 0.5,0.3333333333 0,0.6666666667 -0.5,0.3333333333 -0.5,-0.3333333333" fill="darkgreen" stroke="black" stroke-width=".05"/></g>
+</defs>
+<use xlink:href = "#dH" x = "5.5" y = "2"/>
+<use xlink:href = "#dH" x = "7.5" y = "2"/>
+<use xlink:href = "#dH" x = "5" y = "3"/>
+<use xlink:href = "#dH" x = "7" y = "3"/>
+<use xlink:href = "#dH" x = "4.5" y = "4"/>
+<use xlink:href = "#dH" x = "6.5" y = "4"/>
+<use xlink:href = "#dH" x = "5" y = "5"/>
+<use xlink:href = "#dR" x = "6" y = "5"/>
+<use xlink:href = "#dL" x = "5.5" y = "6"/>
+</svg>
