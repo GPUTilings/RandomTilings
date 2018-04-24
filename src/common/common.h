@@ -48,11 +48,11 @@ typedef std::vector<int> tiling;
 void PrintOpenCLInfo();
 
 // Saves an MxN matrix to the disk with name filename.
-void SaveMatrix(std::vector<double> &tiling, int M, int N, std::string filename);
-void SaveMatrix(std::vector<int> &tiling, int M, int N, std::string filename);
+void SaveMatrix(const std::vector<double> &tiling, int M, int N, std::string filename);
+void SaveMatrix(const std::vector<int> &tiling, int M, int N, std::string filename);
 
 // Prints an MxN matrix to the console.
-void PrintMatrix(std::vector<int> &mat, int M, int N);
+void PrintMatrix(const std::vector<int> &mat, int M, int N);
 
 // Adds/removes a zero padding around an MxN matrix v.
 void PadMatrix(std::vector<int> &v, int M, int N);
@@ -61,9 +61,9 @@ void UnPadMatrix(std::vector<int> &v, int M, int N);
 // The above functions for square matrices.
 void PadMatrix(std::vector<int> &v);
 void UnPadMatrix(std::vector<int> &v);
-void PrintMatrix(std::vector<int> &mat);
-void SaveMatrix(std::vector<int> &mat, std::string filename);
-void SaveMatrix(std::vector<double> &mat, std::string filename);
+void PrintMatrix(const std::vector<int> &mat);
+void SaveMatrix(const std::vector<int> &mat, std::string filename);
+void SaveMatrix(const std::vector<double> &mat, std::string filename);
 
 // Loads an integer matrix filename from the disk.
 std::vector<int> LoadMatrix(std::string filename);

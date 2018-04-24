@@ -70,7 +70,7 @@ public:
     void LoadTinyMT(std::string params, int size);
 
     // Random Walk the tiling for STEPS steps with seed SEED.
-    void Walk(tiling &t,int N, long steps, long seed);
+    void Walk(tiling &t, long steps, long seed);
 
     // Random Walk the tiling with a vector of steps, and a vector of seeds.
     void Walk(tiling &t, std::vector<long> steps, std::vector<long> seeds);

@@ -6,8 +6,10 @@
  * These are the core functions.
  */
 
-void DominoTiler::Walk(tiling &t, int N0, long steps, long seed) {
+void DominoTiler::Walk(tiling &t, long steps, long seed) {
 	int N = std::sqrt(t.size());
+
+	if ( N % 2 != 0 ) std::cout<<"Careful! The tiling has odd dimension."<<std::endl;
 
 	// Break up the tiling into the black and white sub-arrays
 	std::vector<char> h_vW((N/2)*N,0);
@@ -55,6 +57,8 @@ void DominoTiler::Walk(tiling &t, int N0, long steps, long seed) {
 
 void DominoTiler::Walk(tiling &t, std::vector<long> steps, std::vector<long> seeds) {
 	int N = std::sqrt(t.size());
+
+	if ( N % 2 != 0 ) std::cout<<"Careful! The tiling has odd dimension."<<std::endl;
 
 	std::vector<char> h_vW((N/2)*N,0);
 	std::vector<char> h_vB((N/2)*N,0);
@@ -616,10 +620,10 @@ void DominoTiler::TilingToSVG(const tiling &t, std::string filename) {
 	int N = sqrt(t.size());
 	outputFile << "<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink=\"http://www.w3.org/1999/xlink\" height=\"500\" width=\"500\" viewBox=\"0 0 "<<(N-1)<<" "<<(N-1)<<"\">\n";
 	outputFile << "<defs>\n";
-	outputFile << "<g id=\"h1\">  <polygon points = \"-1,0 -1,-1 1,-1 1,0\" fill=\"slategrey\" stroke=\"black\" stroke-width=\".05\"/> </g>\n";
-	outputFile << "<g id=\"v1\">  <polygon points = \"-1,-1 0,-1 0,1 -1,1\" fill=\"lightsteelblue\" stroke=\"black\" stroke-width=\".05\"/> </g>\n";
-	outputFile << "<g id=\"h2\">  <polygon points = \"-1,0 -1,-1 1,-1 1,0\" fill=\"slategrey\" stroke=\"black\" stroke-width=\".05\"/> </g>\n";
-	outputFile << "<g id=\"v2\">  <polygon points = \"-1,-1 0,-1 0,1 -1,1\" fill=\"lightsteelblue\" stroke=\"black\" stroke-width=\".05\"/> </g>\n";
+	outputFile << "<g id=\"h1\">  <polygon points = \"-1,0 -1,-1 1,-1 1,0\" fill=\"white\" stroke=\"black\" stroke-width=\".05\"/> </g>\n";
+	outputFile << "<g id=\"v1\">  <polygon points = \"-1,-1 0,-1 0,1 -1,1\" fill=\"white\" stroke=\"black\" stroke-width=\".05\"/> </g>\n";
+	outputFile << "<g id=\"h2\">  <polygon points = \"-1,0 -1,-1 1,-1 1,0\" fill=\"white\" stroke=\"black\" stroke-width=\".05\"/> </g>\n";
+	outputFile << "<g id=\"v2\">  <polygon points = \"-1,-1 0,-1 0,1 -1,1\" fill=\"white\" stroke=\"black\" stroke-width=\".05\"/> </g>\n";
 
 	outputFile << "</defs>\n";
 

@@ -1,8 +1,4 @@
-#include <iostream>
-#include <fstream>
-#include <sstream>
-#include <cstdlib>
-#include <cmath>
+
 #include "common.h"
 
 void PadMatrix(std::vector<int> &v, int M, int N) {
@@ -83,19 +79,19 @@ void PrintOpenCLInfo()
 }
 
 
-void SaveMatrix(std::vector<int> &tiling, std::string filename) {
+void SaveMatrix(const std::vector<int> &tiling, std::string filename) {
 	SaveMatrix(tiling, std::sqrt(tiling.size()), std::sqrt(tiling.size()), filename );
 }
 
-void SaveMatrix(std::vector<double> &tiling, std::string filename) {
+void SaveMatrix(const std::vector<double> &tiling, std::string filename) {
 	SaveMatrix(tiling, std::sqrt(tiling.size()), std::sqrt(tiling.size()), filename );
 }
 
-void PrintMatrix(std::vector<int> &tiling ) {
+void PrintMatrix(const std::vector<int> &tiling ) {
 	PrintMatrix(tiling, sqrt(tiling.size()), sqrt(tiling.size()));
 }
 
-void SaveMatrix(std::vector<double> &tiling, int M, int N, std::string filename) {
+void SaveMatrix(const std::vector<double> &tiling, int M, int N, std::string filename) {
 
 	std::ofstream outputFile(filename.c_str());
 
@@ -111,7 +107,7 @@ void SaveMatrix(std::vector<double> &tiling, int M, int N, std::string filename)
 	outputFile.close();
 }
 
-void SaveMatrix(std::vector<int> &tiling, int M, int N, std::string filename) {
+void SaveMatrix(const std::vector<int> &tiling, int M, int N, std::string filename) {
 
 	std::ofstream outputFile(filename.c_str());
 
@@ -128,7 +124,7 @@ void SaveMatrix(std::vector<int> &tiling, int M, int N, std::string filename) {
 
 
 
-void PrintMatrix(std::vector<int> &tiling, int M, int N) {
+void PrintMatrix(const std::vector<int> &tiling, int M, int N) {
 
 	for (int i=0; i<M; ++i){
 		for(int j=0; j<N; ++j) {

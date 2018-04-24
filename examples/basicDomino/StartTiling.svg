@@ -1,0 +1,16 @@
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink="http://www.w3.org/1999/xlink" height="500" width="500" viewBox="0 0 9 9">
+<defs>
+<g id="h1">  <polygon points = "-1,0 -1,-1 1,-1 1,0" fill="white" stroke="black" stroke-width=".05"/> </g>
+<g id="v1">  <polygon points = "-1,-1 0,-1 0,1 -1,1" fill="white" stroke="black" stroke-width=".05"/> </g>
+<g id="h2">  <polygon points = "-1,0 -1,-1 1,-1 1,0" fill="white" stroke="black" stroke-width=".05"/> </g>
+<g id="v2">  <polygon points = "-1,-1 0,-1 0,1 -1,1" fill="white" stroke="black" stroke-width=".05"/> </g>
+</defs>
+<use xlink:href = "#v2" x = "3" y = "3"/>
+<use xlink:href = "#h1" x = "4" y = "3"/>
+<use xlink:href = "#v1" x = "6" y = "3"/>
+<use xlink:href = "#v2" x = "4" y = "4"/>
+<use xlink:href = "#v1" x = "5" y = "4"/>
+<use xlink:href = "#v2" x = "3" y = "5"/>
+<use xlink:href = "#v1" x = "6" y = "5"/>
+<use xlink:href = "#h2" x = "4" y = "6"/>
+</svg>
