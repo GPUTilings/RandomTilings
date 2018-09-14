@@ -14,7 +14,7 @@
 int main() {
 
 	int N = 5;
-	int M = 2;
+	int M = 0;
 	int Nsteps = 100;
 	
     std::cout<<"Running basic Dimer on Triangular Lattice example."<<std::endl;

@@ -10,7 +10,16 @@
 <g id="v2">  <ellipse cx="1.5" cy="0" rx=".1" ry=".1" stroke="black" stroke-width=".02" fill="black"/> </g> 
 <g id="v3">  <ellipse cx="1" cy="1" rx=".1" ry=".1" stroke="black" stroke-width=".02" fill="black"/> </g> 
 </defs>
+<use xlink:href = "#eH" x = "2.5" y = "0"/>
+<use xlink:href = "#eR" x = "3.5" y = "2"/>
+<use xlink:href = "#eL" x = "3.5" y = "2"/>
+<use xlink:href = "#dH" x = "3.5" y = "2"/>
+<use xlink:href = "#eR" x = "3.5" y = "2"/>
 <use xlink:href = "#eR" x = "4.5" y = "2"/>
+<use xlink:href = "#eL" x = "4.5" y = "2"/>
+<use xlink:href = "#eH" x = "4.5" y = "2"/>
+<use xlink:href = "#eR" x = "4.5" y = "2"/>
+<use xlink:href = "#eL" x = "4.5" y = "2"/>
 <use xlink:href = "#eR" x = "5.5" y = "2"/>
 <use xlink:href = "#eL" x = "5.5" y = "2"/>
 <use xlink:href = "#dH" x = "5.5" y = "2"/>
@@ -21,24 +30,24 @@
 <use xlink:href = "#eH" x = "6.5" y = "2"/>
 <use xlink:href = "#eR" x = "6.5" y = "2"/>
 <use xlink:href = "#eL" x = "6.5" y = "2"/>
-<use xlink:href = "#eR" x = "7.5" y = "2"/>
-<use xlink:href = "#eL" x = "7.5" y = "2"/>
-<use xlink:href = "#dH" x = "7.5" y = "2"/>
-<use xlink:href = "#eL" x = "7.5" y = "2"/>
+<use xlink:href = "#dL" x = "7.5" y = "2"/>
+<use xlink:href = "#eR" x = "4" y = "3"/>
+<use xlink:href = "#eL" x = "4" y = "3"/>
+<use xlink:href = "#dH" x = "4" y = "3"/>
 <use xlink:href = "#eR" x = "4" y = "3"/>
 <use xlink:href = "#eR" x = "5" y = "3"/>
 <use xlink:href = "#eL" x = "5" y = "3"/>
-<use xlink:href = "#dH" x = "5" y = "3"/>
+<use xlink:href = "#eH" x = "5" y = "3"/>
 <use xlink:href = "#eR" x = "5" y = "3"/>
 <use xlink:href = "#eL" x = "5" y = "3"/>
 <use xlink:href = "#eR" x = "6" y = "3"/>
 <use xlink:href = "#eL" x = "6" y = "3"/>
-<use xlink:href = "#eH" x = "6" y = "3"/>
+<use xlink:href = "#dH" x = "6" y = "3"/>
 <use xlink:href = "#eR" x = "6" y = "3"/>
 <use xlink:href = "#eL" x = "6" y = "3"/>
 <use xlink:href = "#eR" x = "7" y = "3"/>
 <use xlink:href = "#eL" x = "7" y = "3"/>
-<use xlink:href = "#dH" x = "7" y = "3"/>
+<use xlink:href = "#eH" x = "7" y = "3"/>
 <use xlink:href = "#eL" x = "7" y = "3"/>
 <use xlink:href = "#eR" x = "4.5" y = "4"/>
 <use xlink:href = "#eL" x = "4.5" y = "4"/>
@@ -64,6 +73,10 @@
 <use xlink:href = "#eR" x = "5.5" y = "6"/>
 <use xlink:href = "#dL" x = "5.5" y = "6"/>
 <use xlink:href = "#eH" x = "5.5" y = "6"/>
+<use xlink:href = "#v1" x = "3" y = "2"/>
+<use xlink:href = "#v2" x = "3" y = "2"/>
+<use xlink:href = "#v3" x = "3" y = "2"/>
+<use xlink:href = "#v1" x = "4" y = "2"/>
 <use xlink:href = "#v2" x = "4" y = "2"/>
 <use xlink:href = "#v3" x = "4" y = "2"/>
 <use xlink:href = "#v1" x = "5" y = "2"/>
@@ -73,8 +86,8 @@
 <use xlink:href = "#v2" x = "6" y = "2"/>
 <use xlink:href = "#v3" x = "6" y = "2"/>
 <use xlink:href = "#v1" x = "7" y = "2"/>
-<use xlink:href = "#v2" x = "7" y = "2"/>
 <use xlink:href = "#v3" x = "7" y = "2"/>
+<use xlink:href = "#v1" x = "3.5" y = "3"/>
 <use xlink:href = "#v2" x = "3.5" y = "3"/>
 <use xlink:href = "#v3" x = "3.5" y = "3"/>
 <use xlink:href = "#v1" x = "4.5" y = "3"/>
