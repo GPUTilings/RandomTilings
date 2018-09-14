@@ -76,7 +76,7 @@ void DominoTiler::Walk(tiling &t, std::vector<long> steps, std::vector<long> see
 	cl::Buffer d_vW = cl::Buffer(context, h_vW.begin(), h_vW.end(), CL_FALSE);
 	cl::Buffer d_vB = cl::Buffer(context, h_vB.begin(), h_vB.end(), CL_FALSE);
 
-	for (int k = 0; k < steps.size(); k++) {
+	for (int k = 0; k < steps.size(); ++k) {
 
 		std::mt19937 mt_rand(seeds[k]);
 		InitTinyMT( cl::EnqueueArgs(queue, cl::NDRange(N*N/2)), tinymtparams, seeds[k]);
@@ -119,18 +119,14 @@ domain DominoTiler::Rectangle(int M, int N) {
 	int dim = std::max(M,N)+4;
 	if (dim%2 == 0) dim++;
 	domain tiling(dim*dim,0);
-	for (int i = 0; i < M; i++) {
-		for (int j = 0; j < N; j++) {
+	for (int i = 0; i < M; ++i) {
+		for (int j = 0; j < N; ++j) {
 			int x = j+2; int y = i+2;
 			tiling[y*dim+x] = 1;
 		}
 	}
 	return tiling;
 }
-
-
-
-
 
 domain DominoTiler::AztecDiamond(int N) {
 	std::vector<int> empty(0,0);
@@ -243,8 +239,8 @@ tiling DominoTiler::MaxTiling(const domain &d) {
 
 	bool found = false;
 
-	for (int i = 0; i < N && !found; i++) {
-		for (int j = 0; j < N && !found; j++) {   // Search through each point in the domain.
+	for (int i = 0; i < N && !found; ++i) {
+		for (int j = 0; j < N && !found; ++j) {   // Search through each point in the domain.
 			if ( vertices[i*N+j] == 2 ) {   // Check if it is a boundary point.
 				found = true;   // If we found a boundary point stop searching,
 				bfs.push(std::pair<int, int>(i,j));   // add it to the queue,
@@ -337,8 +333,8 @@ tiling DominoTiler::MinTiling(const domain &d) {
 
 	bool found = false;
 
-	for (int i = 0; i < N && !found; i++) {
-		for (int j = 0; j < N && !found; j++) {   // Search through each point in the domain.
+	for (int i = 0; i < N && !found; ++i) {
+		for (int j = 0; j < N && !found; ++j) {   // Search through each point in the domain.
 			if ( vertices[i*N+j] == 2 ) {   // Check if it is a boundary point.
 				found = true;   // If we found a boundary point stop searching,
 				bfs.push(std::pair<int, int>(i,j));   // add it to the queue,
@@ -433,8 +429,8 @@ heightfunc DominoTiler::TilingToHeightfunc(const tiling &t, const domain &d) {
 
 	bool found = false;
 
-	for (int i = 0; i < N && !found; i++) {
-		for (int j = 0; j < N && !found; j++) {   // Search through each point in the domain.
+	for (int i = 0; i < N && !found; ++i) {
+		for (int j = 0; j < N && !found; ++j) {   // Search through each point in the domain.
 			if ( vertices[i*N+j] == 2 ) {   // Check if it is a boundary point.
 				found = true;   // If we found a boundary point stop searching,
 				bfs.push(std::pair<int, int>(i,j));   // add it to the queue,
@@ -469,8 +465,8 @@ domain DominoTiler::TilingToDomain(const tiling &t) {
 	int M = N-1;
 	domain d(M*M, 0);
 
-	for (int i = 0; i < M; i++) {
-		for (int j = 0; j < M; j++) {
+	for (int i = 0; i < M; ++i) {
+		for (int j = 0; j < M; ++j) {
 			if ( ((t[i*N+j] & (2 + 8)) != 0) || ( (t[(i+1)*N+(j+1)]  & ( 1 + 4)) != 0) )
 
 				d[i*M+j] = 1;
@@ -520,8 +516,8 @@ void DominoTiler::DomainToSVG(const domain &d, std::string filename) {
 	outputFile << "<g id=\"w\">  <polygon points = \"-.5,-.5 .5,-.5 .5,.5 -.5,.5\" fill=\"grey\"/> </g>\n";
 	outputFile << "</defs>\n";
 
-	for (int i = 0; i < M; i++) {
-		for (int j = 0; j < M; j++) {
+	for (int i = 0; i < M; ++i) {
+		for (int j = 0; j < M; ++j) {
 
 			if ( d[i*M+j] == 1) {
 				double x = (j+.5);
@@ -563,8 +559,8 @@ void DominoTiler::DimerToSVG(const tiling &t, const domain &d, std::string filen
 	outputFile << "</defs>\n";
 	//draw dimers
 
-	for (int i = 0; i < N; i++) {
-		for (int j = 0; j < N; j++) {
+	for (int i = 0; i < N; ++i) {
+		for (int j = 0; j < N; ++j) {
 			double x = j; double y = i;
 			if ( (t[i*N+j]  & 1) == 1) { outputFile<<"<use xlink:href=\"#hd\" x=\""<<x<<"\" y=\""<<y-.5<<"\"/>\n"; }
 			if ( (t[i*N+j]  & 4) == 4) { outputFile<<"<use xlink:href=\"#vd\" x=\""<<x-.5<<"\" y=\""<<y<<"\"/>\n"; }
@@ -572,8 +568,8 @@ void DominoTiler::DimerToSVG(const tiling &t, const domain &d, std::string filen
 	}
 
 
-	for (int i = 1; i < M; i++) {
-		for (int j = 1; j < M; j++) {
+	for (int i = 1; i < M; ++i) {
+		for (int j = 1; j < M; ++j) {
 			if (d[i*M+j] == 1 ) {
 				double x = (j+.5);
 				double y = (i+.5);
@@ -598,8 +594,8 @@ void DominoTiler::DimerToSVG(const tiling &t, const domain &d, std::string filen
 		}
 	}
 
-	for (int i = 1; i < M; i++) {
-		for (int j = 1; j < M; j++) {
+	for (int i = 1; i < M; ++i) {
+		for (int j = 1; j < M; ++j) {
 			if (d[i*M+j] == 1 ) {
 				double x = (j+.5);
 				double y = (i+.5);
@@ -627,8 +623,8 @@ void DominoTiler::TilingToSVG(const tiling &t, std::string filename) {
 
 	outputFile << "</defs>\n";
 
-	for (int i = 0; i < N; i++) {
-		for (int j = 0; j < N; j++) {
+	for (int i = 0; i < N; ++i) {
+		for (int j = 0; j < N; ++j) {
 			double x = j;
 			double y = i;
 			if ( (i +j )%2 == 1) {
@@ -667,8 +663,8 @@ void DominoTiler::MayaToSVG(const tiling &t, std::string filename) {
 	outputFile << "</g>\n";
 	outputFile << "</defs>\n";
 
-	for (int i = 0; i < N; i++) {
-		for (int j = 0; j < N; j++) {
+	for (int i = 0; i < N; ++i) {
+		for (int j = 0; j < N; ++j) {
 			double x = j;
 			double y = i;
 			if ( (i +j )%2 == 1) {

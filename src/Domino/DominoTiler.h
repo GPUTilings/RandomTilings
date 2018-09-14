@@ -12,7 +12,7 @@
  * for computing maximal and minimal tilings, for constructing some standard domains,
  * and for drawing tilings to SVG files.
  *
- * See the domino section of Examples.cpp for usage examples.
+ * See the domino the examples for usage examples.
  *
  * Some definitions for domino tilings:
  *
