@@ -1,5 +1,5 @@
 # Random Tilings with the GPU
-<img align="right" width="200" src="https://github.com/LittleBadger/RandomTilings/blob/master/TriangleTiling.svg">
+<img align="right" width = "200" src="https://github.com/LittleBadger/RandomTilings/blob/master/TriangleTiling.svg">
 Here is an C++/OpenCL library for generating random tilings efficiently with Markov Chain Monte Carlo on the GPU. See the companion paper [1] for further details.  At the moment, the library supports domino tilings, lozenge tilings, bibone tilings, rectangle-triangle tilings, and the six vertex model. The program also includes utility functions for constructing domains, maximal/minimal tilings, height functions, Maya diagrams, lattice paths, etc., and for drawing tilings with Scalable Vector Graphics.
 
 ## Building and Running
@@ -27,5 +27,5 @@ We would be happy to hear any comments or questions! Please email David (dkeatin
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
-## References
+## More Information
 [1] D. Keating, A. Sridhar. "Random Tilings with the GPU." https://arxiv.org/pdf/1804.07250.pdf
