@@ -15,7 +15,7 @@ A sample makefile is included in the root directory, and a set minimal example t
 ```
 make MinimalDominoEx
 ```
-Running the compiled program will write output to ExampleTilings/MinimalDomino.
+Running the compiled program will write its output to ExampleTilings/MinimalDomino.
 
 ### Usage
 For details on how to specify domains/tilings and run the simulation, please see [1], along with the comments in the header file for each model, and the example programs in src/examples. 
