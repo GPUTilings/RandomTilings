@@ -1,12 +1,10 @@
 # Random Tilings with the GPU
-Here is an C++/OpenCL library for generating random tilings efficiently with Markov Chain Monte Carlo on the GPU. At the moment, the library supports domino tilings, lozenge tilings, bibone tilings, rectangle-triangle tilings, and the six vertex model. See the companion paper [1] for further details.
-
-<img align="right" width="200" src="https://github.com/LittleBadger/RandomTilings/blob/master/TriangleTiling.svg"><img align="right" width="200" src="https://github.com/LittleBadger/RandomTilings/blob/master/DominoTiling.svg">
+Here is an C++/OpenCL library for generating random tilings efficiently with Markov Chain Monte Carlo on the GPU. At the moment, the library supports domino tilings, lozenge tilings, bibone tilings, rectangle-triangle tilings, and the six vertex model. See the companion paper [1] for further details. <img align="right" width="100" src="https://github.com/LittleBadger/RandomTilings/blob/master/TriangleTiling.svg"><img align="right" width="100" src="https://github.com/LittleBadger/RandomTilings/blob/master/DominoTiling.svg">
 
 
 ## Prerequisites
-In order to run the program, you will need:
-* [OpenCL](http://www.khronos.org/opencl)
+To use the program, you will need:
+* [OpenCL](http://www.khronos.org/opencl): An ope
 * [TinyMT](https://github.com/MersenneTwister-Lab/TinyMT): A library for generating random numbers on the GPU.
 
 ## Building And Running
