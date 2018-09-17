@@ -18,7 +18,7 @@ make MinimalDominoEx
 Running the compiled program will write its output to ExampleTilings/MinimalDomino.
 
 ### Usage
-For details on how to specify domains/tilings and run the simulation, please see the comments in the header file for each model along with the example programs in src/examples. 
+For details on how to specify domains/tilings and run the simulation, please see the comments in the header file for each model, along with the example programs in src/examples. 
 
 ## Comments/Questions?
 We would be happy to hear any comments or questions! Please email David (dkeating@berkeley.edu) or Ananth (asridhar@berkeley.edu).
