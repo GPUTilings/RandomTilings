@@ -10,19 +10,6 @@
 #include "../TinyMT/file_reader.h"
 
 
-// Tiling is stored on vertices of the triangular lattice. Each adjacent face if given a integer value in [0,15] based on how it is covered by the tiling. These values are stored as a six digit hexidecimal int as follows:
-//     ___
-//   /\   /\         d4
-//  /__\./__\ -> d5      d3 ->  d5*16^5 + d4*16^4 + d3*16^3 + d2*16^2 + d1*16^1 + d0*16^0
-//  \  / \  /    d2      d0
-//   \/___\/         d1
-//
-// The tiling is then tricolored such that all vertices of a given color can 'flip' without effecting each other. At each step in the Markov chain, it will first select a color then the gpu will attempt to flip all vertices of that color, then a seperate kernels will update the other colors based on the result of the flips (see recttrianglekernel.cl).
-//
-// Some technical notes:
-// In order for dividing the tiling to work correctly it is neccessary that tiling is a square array with size divisible by 3. That is the size of tiling must be N*N, with N divisible by 3.
-// In order for the update kernel to work correctly, the vector for each color must be padded by zeros; that is, the first and last rows and first and last columns must be zero. This is accomplished by making sure the tiling has 3 times the padding (first three and last three rows/cols are zero).
-
 void RectTriangleTiler::LoadTinyMT(std::string params, int size) {
     tinymtparams = get_params_buffer(params, context, queue, size);
 }
@@ -45,40 +32,6 @@ void RectTriangleTiler::Walk(tiling &t, int steps, long seed) {
             }
         }
     }
-    
-//    std::cout<<"Tiling:"<<std::endl;
-//    for(int i=0; i<N; ++i) {
-//        for(int j=0; j<N; ++j) {
-//            std::cout<<std::hex<<t[i*N+j]<<" ";
-//        }
-//        std::cout<<std::endl;
-//    }
-//    std::cout<<std::dec<<std::endl;
-//    std::cout<<"R:"<<std::endl;
-//    for(int i=0; i<N; ++i) {
-//        for(int j=0; j<N/3; ++j) {
-//            std::cout<<std::hex<<h_vR[i*(N/3)+j]<<" ";
-//        }
-//        std::cout<<std::endl;
-//    }
-//    std::cout<<std::dec<<std::endl;
-//    std::cout<<"B:"<<std::endl;
-//    for(int i=0; i<N; ++i) {
-//        for(int j=0; j<N/3; ++j) {
-//            std::cout<<std::hex<<h_vB[i*(N/3)+j]<<" ";
-//        }
-//        std::cout<<std::endl;
-//    }
-//    std::cout<<std::dec<<std::endl;
-//    std::cout<<"G:"<<std::endl;
-//    for(int i=0; i<N; ++i) {
-//        for(int j=0; j<N/3; ++j) {
-//            std::cout<<std::hex<<h_vG[i*(N/3)+j]<<" ";
-//        }
-//        std::cout<<std::endl;
-//    }
-//    std::cout<<std::dec<<std::endl;
-    
     
     // device objects
     cl::Buffer d_vR = cl::Buffer(context, h_vR.begin(), h_vR.end(),CL_FALSE);
@@ -648,11 +601,11 @@ double vy(int i, int j) {
 
 std::string RectTriangleTiler::TilePicture(int TriType, int i, int j) {
     std::vector<std::string> colorStyles; colorStyles.push_back("");
-    colorStyles.push_back("\" style=\"fill:Blue;stroke:black;stroke-width:0\" />\n");
-    colorStyles.push_back("\" style=\"fill:Red;stroke:black;stroke-width:0\" />\n");
-    colorStyles.push_back("\" style=\"fill:Green;stroke:black;stroke-width:0\" />\n");
+    colorStyles.push_back("\" style=\"fill:midnightblue;stroke:midnightblue;stroke-width:.4\" />\n");
+    colorStyles.push_back("\" style=\"fill:slategrey;stroke:slategrey;stroke-width:.4\" />\n");
+    colorStyles.push_back("\" style=\"fill:lightsteelblue;stroke:lightsteelblue;stroke-width:.4\" />\n");
     
-    std::string edgeStyle = " style=\"stroke:rgb(0,0,0);stroke-width:.1\" stroke-linecap = \"round\" />\n";
+    std::string edgeStyle = " style=\"stroke:rgb(0,0,0);stroke-width:.5\" stroke-linecap = \"round\" />\n";
     
     // brute forced, probably a better way to arrange these
     

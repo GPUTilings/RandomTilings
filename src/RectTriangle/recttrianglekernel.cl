@@ -39,7 +39,7 @@ __kernel void flipTiles(__global tinymt32wp_t * d_status, __global int* tiling, 
         int hexType = tiling[i*(N/3)+j];
         int hex1; int hex2; int newType = hexType;
         float sc1, sc2, sc;
-        sc1 = select((float)0.75,0.5,rd < 0.75); sc2 = select(sc1,0.25,rd < 0.5); sc = select(sc2,0.0,rd < 0.25);
+        sc1 = select(0.75f,0.5f,rd < 0.75f); sc2 = select(sc1,0.25f,rd < 0.5f); sc = select(sc2,0.0f,rd < 0.25f);
         if (hexType == 0x122133) { /* all triangles (1) */
             // select(a,b,c), a=value  if false, b=value if true, c=condition
             hex1 = select(0x331221,0x8ebbe8,rd < 0.75); // if 0.5 < rd < 0.75 flip to 0x8ebbe8

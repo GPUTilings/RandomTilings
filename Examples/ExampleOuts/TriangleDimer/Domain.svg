@@ -1,27 +1,42 @@
-<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink="http://www.w3.org/1999/xlink" height="433.013" width="500" viewBox="0 0 13.5 13.5" preserveAspectRatio="none">
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink="http://www.w3.org/1999/xlink" height="433.013" width="500" viewBox="0 0 15 15" preserveAspectRatio="none">
 <defs>
 <g id="w">  <polygon points = "0,1 .5,0 1,1" fill="paleturquoise"/> </g>
 <g id="b">  <polygon points = "0,0 1,0 .5,1" fill="deepskyblue"/> </g>
 </defs>
+<use xlink:href = "#b" x = "3" y = "2"/>
+<use xlink:href = "#w" x = "3.5" y = "2"/>
+<use xlink:href = "#b" x = "4" y = "2"/>
 <use xlink:href = "#w" x = "4.5" y = "2"/>
 <use xlink:href = "#b" x = "5" y = "2"/>
 <use xlink:href = "#w" x = "5.5" y = "2"/>
 <use xlink:href = "#b" x = "6" y = "2"/>
 <use xlink:href = "#w" x = "6.5" y = "2"/>
 <use xlink:href = "#b" x = "7" y = "2"/>
+<use xlink:href = "#w" x = "7.5" y = "2"/>
+<use xlink:href = "#b" x = "8" y = "2"/>
+<use xlink:href = "#b" x = "3.5" y = "3"/>
 <use xlink:href = "#w" x = "4" y = "3"/>
 <use xlink:href = "#b" x = "4.5" y = "3"/>
 <use xlink:href = "#w" x = "5" y = "3"/>
 <use xlink:href = "#b" x = "5.5" y = "3"/>
 <use xlink:href = "#w" x = "6" y = "3"/>
 <use xlink:href = "#b" x = "6.5" y = "3"/>
+<use xlink:href = "#w" x = "7" y = "3"/>
+<use xlink:href = "#b" x = "7.5" y = "3"/>
 <use xlink:href = "#b" x = "4" y = "4"/>
 <use xlink:href = "#w" x = "4.5" y = "4"/>
 <use xlink:href = "#b" x = "5" y = "4"/>
 <use xlink:href = "#w" x = "5.5" y = "4"/>
 <use xlink:href = "#b" x = "6" y = "4"/>
+<use xlink:href = "#w" x = "6.5" y = "4"/>
+<use xlink:href = "#b" x = "7" y = "4"/>
 <use xlink:href = "#b" x = "4.5" y = "5"/>
 <use xlink:href = "#w" x = "5" y = "5"/>
 <use xlink:href = "#b" x = "5.5" y = "5"/>
+<use xlink:href = "#w" x = "6" y = "5"/>
+<use xlink:href = "#b" x = "6.5" y = "5"/>
 <use xlink:href = "#b" x = "5" y = "6"/>
+<use xlink:href = "#w" x = "5.5" y = "6"/>
+<use xlink:href = "#b" x = "6" y = "6"/>
+<use xlink:href = "#b" x = "5.5" y = "7"/>
 </svg>
