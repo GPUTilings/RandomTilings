@@ -5,14 +5,17 @@
 #include "../common/common.h"
 
 
-// The domain of a lozenge tiling is union of triangles on the triangular lattice.
+// The domain of a lozenge tiling is a union of triangles on the triangular lattice.
+// The domain is specified by a 2*N^2 dimension arrays of 0 and 1. See example for details.
+//
 // Tiling is stored on vertices of the triangular lattice. There is an indicator on each
-// adjacent edge which is nonzero if a lozenge (or equivalently a dimer on the dual graph) crosses the edge.
-// The value of the indicator on each edge is:
+// adjacent edge which is nonzero if a lozenge (or equivalently a dimer on the dual graph) crosses the edge, 
+// and otherwise has a value depending on the edge is:
 //        1   2
 //     4 __\./__ 8
 //         / \
 //       16   32
+// The tile state at the vertex is the sum of the indicators.
 //
 // The tiling is then tricolored such that all vertices of a given color can 'flip'
 // without effecting each other. At each step in the Markov chain, it will first select a color
@@ -21,10 +24,12 @@
 //
 // Some technical notes:
 // In order for dividing the tiling to work correctly it is neccessary that tiling is a square array with size divisible by 3. That is the size of tiling must be N*N, with N divisible by 3.
+//
 // In order for the update kernel to work correctly, the vector for each color must be padded by zeros; that is, the first and last rows and first and last columns must be zero. This is accomplished by making sure the tiling has 3 times the padding (first three and last three rows/cols are zero).
+//
 // Here the domain created by LozengeTiler::AlmostHexDomain results in a tiling that satisfies the above conditions.
 
-// We assume the domain is specified by a 2*N^2 dimension array of 0 and 1. See example for details.
+
 
 
 class LozengeTiler {

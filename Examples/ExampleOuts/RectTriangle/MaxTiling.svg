@@ -1,0 +1,602 @@
+<svg xmlns='http://www.w3.org/2000/svg' height="570" width="1316.36" >
+<polygon points="180,69.282 200,69.282 190,51.9615 " style="fill:slategrey;stroke:slategrey;stroke-width:.4" />
+<line x1="180" y1="69.282" x2="200" y2="69.282" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="180" y1="69.282" x2="190" y2="51.9615" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="180" y1="69.282" x2="195" y2="60.6218" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="200,69.282 220,69.282 210,51.9615 " style="fill:slategrey;stroke:slategrey;stroke-width:.4" />
+<line x1="200" y1="69.282" x2="220" y2="69.282" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="200" y1="69.282" x2="210" y2="51.9615" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="200" y1="69.282" x2="215" y2="60.6218" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="210,51.9615 190,51.9615 200,69.282 " style="fill:slategrey;stroke:slategrey;stroke-width:.4" />
+<line x1="210" y1="51.9615" x2="190" y2="51.9615" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="210" y1="51.9615" x2="200" y2="69.282" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="210" y1="51.9615" x2="195" y2="60.6218" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="220,69.282 240,69.282 230,51.9615 " style="fill:slategrey;stroke:slategrey;stroke-width:.4" />
+<line x1="220" y1="69.282" x2="240" y2="69.282" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="220" y1="69.282" x2="230" y2="51.9615" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="220" y1="69.282" x2="235" y2="60.6218" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="230,51.9615 210,51.9615 220,69.282 " style="fill:slategrey;stroke:slategrey;stroke-width:.4" />
+<line x1="230" y1="51.9615" x2="210" y2="51.9615" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="230" y1="51.9615" x2="220" y2="69.282" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="230" y1="51.9615" x2="215" y2="60.6218" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="240,69.282 260,69.282 250,51.9615 " style="fill:slategrey;stroke:slategrey;stroke-width:.4" />
+<line x1="240" y1="69.282" x2="260" y2="69.282" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="240" y1="69.282" x2="250" y2="51.9615" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="240" y1="69.282" x2="255" y2="60.6218" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="250,51.9615 230,51.9615 240,69.282 " style="fill:slategrey;stroke:slategrey;stroke-width:.4" />
+<line x1="250" y1="51.9615" x2="230" y2="51.9615" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="250" y1="51.9615" x2="240" y2="69.282" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="250" y1="51.9615" x2="235" y2="60.6218" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="260,69.282 280,69.282 270,51.9615 " style="fill:slategrey;stroke:slategrey;stroke-width:.4" />
+<line x1="260" y1="69.282" x2="280" y2="69.282" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="260" y1="69.282" x2="270" y2="51.9615" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="260" y1="69.282" x2="275" y2="60.6218" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="270,51.9615 250,51.9615 260,69.282 " style="fill:slategrey;stroke:slategrey;stroke-width:.4" />
+<line x1="270" y1="51.9615" x2="250" y2="51.9615" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="270" y1="51.9615" x2="260" y2="69.282" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="270" y1="51.9615" x2="255" y2="60.6218" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="280,69.282 300,69.282 290,51.9615 " style="fill:midnightblue;stroke:midnightblue;stroke-width:.4" />
+<line x1="280" y1="69.282" x2="290" y2="51.9615" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="290" y1="51.9615" x2="300" y2="69.282" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="290" y1="51.9615" x2="290" y2="69.282" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="290,51.9615 270,51.9615 280,69.282 " style="fill:slategrey;stroke:slategrey;stroke-width:.4" />
+<line x1="290" y1="51.9615" x2="270" y2="51.9615" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="290" y1="51.9615" x2="280" y2="69.282" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="290" y1="51.9615" x2="275" y2="60.6218" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="170,86.6025 190,86.6025 180,69.282 " style="fill:slategrey;stroke:slategrey;stroke-width:.4" />
+<line x1="170" y1="86.6025" x2="190" y2="86.6025" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="170" y1="86.6025" x2="180" y2="69.282" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="170" y1="86.6025" x2="185" y2="77.9423" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="190,86.6025 210,86.6025 200,69.282 " style="fill:slategrey;stroke:slategrey;stroke-width:.4" />
+<line x1="190" y1="86.6025" x2="210" y2="86.6025" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="190" y1="86.6025" x2="200" y2="69.282" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="190" y1="86.6025" x2="205" y2="77.9423" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="200,69.282 180,69.282 190,86.6025 " style="fill:slategrey;stroke:slategrey;stroke-width:.4" />
+<line x1="200" y1="69.282" x2="180" y2="69.282" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="200" y1="69.282" x2="190" y2="86.6025" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="200" y1="69.282" x2="185" y2="77.9423" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="210,86.6025 230,86.6025 220,69.282 " style="fill:slategrey;stroke:slategrey;stroke-width:.4" />
+<line x1="210" y1="86.6025" x2="230" y2="86.6025" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="210" y1="86.6025" x2="220" y2="69.282" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="210" y1="86.6025" x2="225" y2="77.9423" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="220,69.282 200,69.282 210,86.6025 " style="fill:slategrey;stroke:slategrey;stroke-width:.4" />
+<line x1="220" y1="69.282" x2="200" y2="69.282" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="220" y1="69.282" x2="210" y2="86.6025" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="220" y1="69.282" x2="205" y2="77.9423" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="230,86.6025 250,86.6025 240,69.282 " style="fill:slategrey;stroke:slategrey;stroke-width:.4" />
+<line x1="230" y1="86.6025" x2="250" y2="86.6025" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="230" y1="86.6025" x2="240" y2="69.282" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="230" y1="86.6025" x2="245" y2="77.9423" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="240,69.282 220,69.282 230,86.6025 " style="fill:slategrey;stroke:slategrey;stroke-width:.4" />
+<line x1="240" y1="69.282" x2="220" y2="69.282" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="240" y1="69.282" x2="230" y2="86.6025" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="240" y1="69.282" x2="225" y2="77.9423" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="250,86.6025 270,86.6025 260,69.282 " style="fill:slategrey;stroke:slategrey;stroke-width:.4" />
+<line x1="250" y1="86.6025" x2="270" y2="86.6025" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="250" y1="86.6025" x2="260" y2="69.282" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="250" y1="86.6025" x2="265" y2="77.9423" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="260,69.282 240,69.282 250,86.6025 " style="fill:slategrey;stroke:slategrey;stroke-width:.4" />
+<line x1="260" y1="69.282" x2="240" y2="69.282" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="260" y1="69.282" x2="250" y2="86.6025" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="260" y1="69.282" x2="245" y2="77.9423" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="270,86.6025 290,86.6025 280,69.282 " style="fill:midnightblue;stroke:midnightblue;stroke-width:.4" />
+<line x1="270" y1="86.6025" x2="280" y2="69.282" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="280" y1="69.282" x2="290" y2="86.6025" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="280" y1="69.282" x2="280" y2="86.6025" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="280,69.282 260,69.282 270,86.6025 " style="fill:slategrey;stroke:slategrey;stroke-width:.4" />
+<line x1="280" y1="69.282" x2="260" y2="69.282" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="280" y1="69.282" x2="270" y2="86.6025" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="280" y1="69.282" x2="265" y2="77.9423" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="290,86.6025 310,86.6025 300,69.282 " style="fill:midnightblue;stroke:midnightblue;stroke-width:.4" />
+<line x1="290" y1="86.6025" x2="300" y2="69.282" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="300" y1="69.282" x2="310" y2="86.6025" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="300" y1="69.282" x2="300" y2="86.6025" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="300,69.282 280,69.282 290,86.6025 " style="fill:midnightblue;stroke:midnightblue;stroke-width:.4" />
+<line x1="300" y1="69.282" x2="290" y2="86.6025" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="290" y1="86.6025" x2="280" y2="69.282" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="290" y1="86.6025" x2="290" y2="69.282" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="160,103.923 180,103.923 170,86.6025 " style="fill:slategrey;stroke:slategrey;stroke-width:.4" />
+<line x1="160" y1="103.923" x2="180" y2="103.923" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="160" y1="103.923" x2="170" y2="86.6025" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="160" y1="103.923" x2="175" y2="95.2628" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="180,103.923 200,103.923 190,86.6025 " style="fill:slategrey;stroke:slategrey;stroke-width:.4" />
+<line x1="180" y1="103.923" x2="200" y2="103.923" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="180" y1="103.923" x2="190" y2="86.6025" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="180" y1="103.923" x2="195" y2="95.2628" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="190,86.6025 170,86.6025 180,103.923 " style="fill:slategrey;stroke:slategrey;stroke-width:.4" />
+<line x1="190" y1="86.6025" x2="170" y2="86.6025" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="190" y1="86.6025" x2="180" y2="103.923" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="190" y1="86.6025" x2="175" y2="95.2628" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="200,103.923 220,103.923 210,86.6025 " style="fill:slategrey;stroke:slategrey;stroke-width:.4" />
+<line x1="200" y1="103.923" x2="220" y2="103.923" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="200" y1="103.923" x2="210" y2="86.6025" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="200" y1="103.923" x2="215" y2="95.2628" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="210,86.6025 190,86.6025 200,103.923 " style="fill:slategrey;stroke:slategrey;stroke-width:.4" />
+<line x1="210" y1="86.6025" x2="190" y2="86.6025" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="210" y1="86.6025" x2="200" y2="103.923" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="210" y1="86.6025" x2="195" y2="95.2628" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="220,103.923 240,103.923 230,86.6025 " style="fill:slategrey;stroke:slategrey;stroke-width:.4" />
+<line x1="220" y1="103.923" x2="240" y2="103.923" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="220" y1="103.923" x2="230" y2="86.6025" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="220" y1="103.923" x2="235" y2="95.2628" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="230,86.6025 210,86.6025 220,103.923 " style="fill:slategrey;stroke:slategrey;stroke-width:.4" />
+<line x1="230" y1="86.6025" x2="210" y2="86.6025" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="230" y1="86.6025" x2="220" y2="103.923" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="230" y1="86.6025" x2="215" y2="95.2628" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="240,103.923 260,103.923 250,86.6025 " style="fill:slategrey;stroke:slategrey;stroke-width:.4" />
+<line x1="240" y1="103.923" x2="260" y2="103.923" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="240" y1="103.923" x2="250" y2="86.6025" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="240" y1="103.923" x2="255" y2="95.2628" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="250,86.6025 230,86.6025 240,103.923 " style="fill:slategrey;stroke:slategrey;stroke-width:.4" />
+<line x1="250" y1="86.6025" x2="230" y2="86.6025" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="250" y1="86.6025" x2="240" y2="103.923" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="250" y1="86.6025" x2="235" y2="95.2628" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="260,103.923 280,103.923 270,86.6025 " style="fill:midnightblue;stroke:midnightblue;stroke-width:.4" />
+<line x1="260" y1="103.923" x2="270" y2="86.6025" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="270" y1="86.6025" x2="280" y2="103.923" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="270" y1="86.6025" x2="270" y2="103.923" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="270,86.6025 250,86.6025 260,103.923 " style="fill:slategrey;stroke:slategrey;stroke-width:.4" />
+<line x1="270" y1="86.6025" x2="250" y2="86.6025" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="270" y1="86.6025" x2="260" y2="103.923" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="270" y1="86.6025" x2="255" y2="95.2628" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="280,103.923 300,103.923 290,86.6025 " style="fill:midnightblue;stroke:midnightblue;stroke-width:.4" />
+<line x1="280" y1="103.923" x2="290" y2="86.6025" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="290" y1="86.6025" x2="300" y2="103.923" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="290" y1="86.6025" x2="290" y2="103.923" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="290,86.6025 270,86.6025 280,103.923 " style="fill:midnightblue;stroke:midnightblue;stroke-width:.4" />
+<line x1="290" y1="86.6025" x2="280" y2="103.923" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="280" y1="103.923" x2="270" y2="86.6025" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="280" y1="103.923" x2="280" y2="86.6025" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="300,103.923 320,103.923 310,86.6025 " style="fill:midnightblue;stroke:midnightblue;stroke-width:.4" />
+<line x1="300" y1="103.923" x2="310" y2="86.6025" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="310" y1="86.6025" x2="320" y2="103.923" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="310" y1="86.6025" x2="310" y2="103.923" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="310,86.6025 290,86.6025 300,103.923 " style="fill:midnightblue;stroke:midnightblue;stroke-width:.4" />
+<line x1="310" y1="86.6025" x2="300" y2="103.923" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="300" y1="103.923" x2="290" y2="86.6025" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="300" y1="103.923" x2="300" y2="86.6025" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="150,121.244 170,121.244 160,103.923 " style="fill:slategrey;stroke:slategrey;stroke-width:.4" />
+<line x1="150" y1="121.244" x2="170" y2="121.244" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="150" y1="121.244" x2="160" y2="103.923" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="150" y1="121.244" x2="165" y2="112.583" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="170,121.244 190,121.244 180,103.923 " style="fill:slategrey;stroke:slategrey;stroke-width:.4" />
+<line x1="170" y1="121.244" x2="190" y2="121.244" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="170" y1="121.244" x2="180" y2="103.923" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="170" y1="121.244" x2="185" y2="112.583" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="180,103.923 160,103.923 170,121.244 " style="fill:slategrey;stroke:slategrey;stroke-width:.4" />
+<line x1="180" y1="103.923" x2="160" y2="103.923" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="180" y1="103.923" x2="170" y2="121.244" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="180" y1="103.923" x2="165" y2="112.583" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="190,121.244 210,121.244 200,103.923 " style="fill:slategrey;stroke:slategrey;stroke-width:.4" />
+<line x1="190" y1="121.244" x2="210" y2="121.244" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="190" y1="121.244" x2="200" y2="103.923" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="190" y1="121.244" x2="205" y2="112.583" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="200,103.923 180,103.923 190,121.244 " style="fill:slategrey;stroke:slategrey;stroke-width:.4" />
+<line x1="200" y1="103.923" x2="180" y2="103.923" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="200" y1="103.923" x2="190" y2="121.244" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="200" y1="103.923" x2="185" y2="112.583" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="210,121.244 230,121.244 220,103.923 " style="fill:slategrey;stroke:slategrey;stroke-width:.4" />
+<line x1="210" y1="121.244" x2="230" y2="121.244" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="210" y1="121.244" x2="220" y2="103.923" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="210" y1="121.244" x2="225" y2="112.583" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="220,103.923 200,103.923 210,121.244 " style="fill:slategrey;stroke:slategrey;stroke-width:.4" />
+<line x1="220" y1="103.923" x2="200" y2="103.923" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="220" y1="103.923" x2="210" y2="121.244" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="220" y1="103.923" x2="205" y2="112.583" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="230,121.244 250,121.244 240,103.923 " style="fill:slategrey;stroke:slategrey;stroke-width:.4" />
+<line x1="230" y1="121.244" x2="250" y2="121.244" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="230" y1="121.244" x2="240" y2="103.923" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="230" y1="121.244" x2="245" y2="112.583" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="240,103.923 220,103.923 230,121.244 " style="fill:slategrey;stroke:slategrey;stroke-width:.4" />
+<line x1="240" y1="103.923" x2="220" y2="103.923" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="240" y1="103.923" x2="230" y2="121.244" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="240" y1="103.923" x2="225" y2="112.583" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="250,121.244 270,121.244 260,103.923 " style="fill:midnightblue;stroke:midnightblue;stroke-width:.4" />
+<line x1="250" y1="121.244" x2="260" y2="103.923" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="260" y1="103.923" x2="270" y2="121.244" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="260" y1="103.923" x2="260" y2="121.244" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="260,103.923 240,103.923 250,121.244 " style="fill:slategrey;stroke:slategrey;stroke-width:.4" />
+<line x1="260" y1="103.923" x2="240" y2="103.923" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="260" y1="103.923" x2="250" y2="121.244" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="260" y1="103.923" x2="245" y2="112.583" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="270,121.244 290,121.244 280,103.923 " style="fill:midnightblue;stroke:midnightblue;stroke-width:.4" />
+<line x1="270" y1="121.244" x2="280" y2="103.923" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="280" y1="103.923" x2="290" y2="121.244" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="280" y1="103.923" x2="280" y2="121.244" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="280,103.923 260,103.923 270,121.244 " style="fill:midnightblue;stroke:midnightblue;stroke-width:.4" />
+<line x1="280" y1="103.923" x2="270" y2="121.244" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="270" y1="121.244" x2="260" y2="103.923" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="270" y1="121.244" x2="270" y2="103.923" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="290,121.244 310,121.244 300,103.923 " style="fill:midnightblue;stroke:midnightblue;stroke-width:.4" />
+<line x1="290" y1="121.244" x2="300" y2="103.923" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="300" y1="103.923" x2="310" y2="121.244" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="300" y1="103.923" x2="300" y2="121.244" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="300,103.923 280,103.923 290,121.244 " style="fill:midnightblue;stroke:midnightblue;stroke-width:.4" />
+<line x1="300" y1="103.923" x2="290" y2="121.244" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="290" y1="121.244" x2="280" y2="103.923" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="290" y1="121.244" x2="290" y2="103.923" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="310,121.244 330,121.244 320,103.923 " style="fill:midnightblue;stroke:midnightblue;stroke-width:.4" />
+<line x1="310" y1="121.244" x2="320" y2="103.923" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="320" y1="103.923" x2="330" y2="121.244" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="320" y1="103.923" x2="320" y2="121.244" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="320,103.923 300,103.923 310,121.244 " style="fill:midnightblue;stroke:midnightblue;stroke-width:.4" />
+<line x1="320" y1="103.923" x2="310" y2="121.244" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="310" y1="121.244" x2="300" y2="103.923" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="310" y1="121.244" x2="310" y2="103.923" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="140,138.564 160,138.564 150,121.244 " style="fill:slategrey;stroke:slategrey;stroke-width:.4" />
+<line x1="140" y1="138.564" x2="160" y2="138.564" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="140" y1="138.564" x2="150" y2="121.244" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="140" y1="138.564" x2="155" y2="129.904" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="160,138.564 180,138.564 170,121.244 " style="fill:slategrey;stroke:slategrey;stroke-width:.4" />
+<line x1="160" y1="138.564" x2="180" y2="138.564" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="160" y1="138.564" x2="170" y2="121.244" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="160" y1="138.564" x2="175" y2="129.904" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="170,121.244 150,121.244 160,138.564 " style="fill:slategrey;stroke:slategrey;stroke-width:.4" />
+<line x1="170" y1="121.244" x2="150" y2="121.244" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="170" y1="121.244" x2="160" y2="138.564" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="170" y1="121.244" x2="155" y2="129.904" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="180,138.564 200,138.564 190,121.244 " style="fill:slategrey;stroke:slategrey;stroke-width:.4" />
+<line x1="180" y1="138.564" x2="200" y2="138.564" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="180" y1="138.564" x2="190" y2="121.244" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="180" y1="138.564" x2="195" y2="129.904" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="190,121.244 170,121.244 180,138.564 " style="fill:slategrey;stroke:slategrey;stroke-width:.4" />
+<line x1="190" y1="121.244" x2="170" y2="121.244" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="190" y1="121.244" x2="180" y2="138.564" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="190" y1="121.244" x2="175" y2="129.904" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="200,138.564 220,138.564 210,121.244 " style="fill:slategrey;stroke:slategrey;stroke-width:.4" />
+<line x1="200" y1="138.564" x2="220" y2="138.564" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="200" y1="138.564" x2="210" y2="121.244" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="200" y1="138.564" x2="215" y2="129.904" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="210,121.244 190,121.244 200,138.564 " style="fill:slategrey;stroke:slategrey;stroke-width:.4" />
+<line x1="210" y1="121.244" x2="190" y2="121.244" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="210" y1="121.244" x2="200" y2="138.564" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="210" y1="121.244" x2="195" y2="129.904" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="220,138.564 240,138.564 230,121.244 " style="fill:slategrey;stroke:slategrey;stroke-width:.4" />
+<line x1="220" y1="138.564" x2="240" y2="138.564" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="220" y1="138.564" x2="230" y2="121.244" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="220" y1="138.564" x2="235" y2="129.904" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="230,121.244 210,121.244 220,138.564 " style="fill:slategrey;stroke:slategrey;stroke-width:.4" />
+<line x1="230" y1="121.244" x2="210" y2="121.244" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="230" y1="121.244" x2="220" y2="138.564" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="230" y1="121.244" x2="215" y2="129.904" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="240,138.564 260,138.564 250,121.244 " style="fill:midnightblue;stroke:midnightblue;stroke-width:.4" />
+<line x1="240" y1="138.564" x2="250" y2="121.244" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="250" y1="121.244" x2="260" y2="138.564" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="250" y1="121.244" x2="250" y2="138.564" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="250,121.244 230,121.244 240,138.564 " style="fill:slategrey;stroke:slategrey;stroke-width:.4" />
+<line x1="250" y1="121.244" x2="230" y2="121.244" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="250" y1="121.244" x2="240" y2="138.564" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="250" y1="121.244" x2="235" y2="129.904" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="260,138.564 280,138.564 270,121.244 " style="fill:midnightblue;stroke:midnightblue;stroke-width:.4" />
+<line x1="260" y1="138.564" x2="270" y2="121.244" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="270" y1="121.244" x2="280" y2="138.564" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="270" y1="121.244" x2="270" y2="138.564" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="270,121.244 250,121.244 260,138.564 " style="fill:midnightblue;stroke:midnightblue;stroke-width:.4" />
+<line x1="270" y1="121.244" x2="260" y2="138.564" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="260" y1="138.564" x2="250" y2="121.244" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="260" y1="138.564" x2="260" y2="121.244" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="280,138.564 300,138.564 290,121.244 " style="fill:midnightblue;stroke:midnightblue;stroke-width:.4" />
+<line x1="280" y1="138.564" x2="290" y2="121.244" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="290" y1="121.244" x2="300" y2="138.564" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="290" y1="121.244" x2="290" y2="138.564" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="290,121.244 270,121.244 280,138.564 " style="fill:midnightblue;stroke:midnightblue;stroke-width:.4" />
+<line x1="290" y1="121.244" x2="280" y2="138.564" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="280" y1="138.564" x2="270" y2="121.244" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="280" y1="138.564" x2="280" y2="121.244" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="300,138.564 320,138.564 310,121.244 " style="fill:midnightblue;stroke:midnightblue;stroke-width:.4" />
+<line x1="300" y1="138.564" x2="310" y2="121.244" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="310" y1="121.244" x2="320" y2="138.564" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="310" y1="121.244" x2="310" y2="138.564" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="310,121.244 290,121.244 300,138.564 " style="fill:midnightblue;stroke:midnightblue;stroke-width:.4" />
+<line x1="310" y1="121.244" x2="300" y2="138.564" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="300" y1="138.564" x2="290" y2="121.244" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="300" y1="138.564" x2="300" y2="121.244" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="320,138.564 340,138.564 330,121.244 " style="fill:midnightblue;stroke:midnightblue;stroke-width:.4" />
+<line x1="320" y1="138.564" x2="330" y2="121.244" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="330" y1="121.244" x2="340" y2="138.564" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="330" y1="121.244" x2="330" y2="138.564" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="330,121.244 310,121.244 320,138.564 " style="fill:midnightblue;stroke:midnightblue;stroke-width:.4" />
+<line x1="330" y1="121.244" x2="320" y2="138.564" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="320" y1="138.564" x2="310" y2="121.244" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="320" y1="138.564" x2="320" y2="121.244" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="150,155.885 170,155.885 160,138.564 " style="fill:lightsteelblue;stroke:lightsteelblue;stroke-width:.4" />
+<line x1="150" y1="155.885" x2="170" y2="155.885" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="160" y1="138.564" x2="170" y2="155.885" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="170" y1="155.885" x2="155" y2="147.224" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="160,138.564 140,138.564 150,155.885 " style="fill:lightsteelblue;stroke:lightsteelblue;stroke-width:.4" />
+<line x1="160" y1="138.564" x2="140" y2="138.564" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="150" y1="155.885" x2="140" y2="138.564" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="140" y1="138.564" x2="155" y2="147.224" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="170,155.885 190,155.885 180,138.564 " style="fill:lightsteelblue;stroke:lightsteelblue;stroke-width:.4" />
+<line x1="170" y1="155.885" x2="190" y2="155.885" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="180" y1="138.564" x2="190" y2="155.885" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="190" y1="155.885" x2="175" y2="147.224" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="180,138.564 160,138.564 170,155.885 " style="fill:lightsteelblue;stroke:lightsteelblue;stroke-width:.4" />
+<line x1="180" y1="138.564" x2="160" y2="138.564" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="170" y1="155.885" x2="160" y2="138.564" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="160" y1="138.564" x2="175" y2="147.224" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="190,155.885 210,155.885 200,138.564 " style="fill:lightsteelblue;stroke:lightsteelblue;stroke-width:.4" />
+<line x1="190" y1="155.885" x2="210" y2="155.885" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="200" y1="138.564" x2="210" y2="155.885" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="210" y1="155.885" x2="195" y2="147.224" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="200,138.564 180,138.564 190,155.885 " style="fill:lightsteelblue;stroke:lightsteelblue;stroke-width:.4" />
+<line x1="200" y1="138.564" x2="180" y2="138.564" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="190" y1="155.885" x2="180" y2="138.564" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="180" y1="138.564" x2="195" y2="147.224" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="210,155.885 230,155.885 220,138.564 " style="fill:lightsteelblue;stroke:lightsteelblue;stroke-width:.4" />
+<line x1="210" y1="155.885" x2="230" y2="155.885" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="220" y1="138.564" x2="230" y2="155.885" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="230" y1="155.885" x2="215" y2="147.224" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="220,138.564 200,138.564 210,155.885 " style="fill:lightsteelblue;stroke:lightsteelblue;stroke-width:.4" />
+<line x1="220" y1="138.564" x2="200" y2="138.564" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="210" y1="155.885" x2="200" y2="138.564" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="200" y1="138.564" x2="215" y2="147.224" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="230,155.885 250,155.885 240,138.564 " style="fill:lightsteelblue;stroke:lightsteelblue;stroke-width:.4" />
+<line x1="230" y1="155.885" x2="250" y2="155.885" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="240" y1="138.564" x2="250" y2="155.885" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="250" y1="155.885" x2="235" y2="147.224" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="240,138.564 220,138.564 230,155.885 " style="fill:lightsteelblue;stroke:lightsteelblue;stroke-width:.4" />
+<line x1="240" y1="138.564" x2="220" y2="138.564" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="230" y1="155.885" x2="220" y2="138.564" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="220" y1="138.564" x2="235" y2="147.224" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="250,155.885 270,155.885 260,138.564 " style="fill:midnightblue;stroke:midnightblue;stroke-width:.4" />
+<line x1="250" y1="155.885" x2="260" y2="138.564" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="260" y1="138.564" x2="270" y2="155.885" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="260" y1="138.564" x2="260" y2="155.885" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="260,138.564 240,138.564 250,155.885 " style="fill:midnightblue;stroke:midnightblue;stroke-width:.4" />
+<line x1="260" y1="138.564" x2="250" y2="155.885" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="250" y1="155.885" x2="240" y2="138.564" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="250" y1="155.885" x2="250" y2="138.564" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="270,155.885 290,155.885 280,138.564 " style="fill:midnightblue;stroke:midnightblue;stroke-width:.4" />
+<line x1="270" y1="155.885" x2="280" y2="138.564" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="280" y1="138.564" x2="290" y2="155.885" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="280" y1="138.564" x2="280" y2="155.885" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="280,138.564 260,138.564 270,155.885 " style="fill:midnightblue;stroke:midnightblue;stroke-width:.4" />
+<line x1="280" y1="138.564" x2="270" y2="155.885" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="270" y1="155.885" x2="260" y2="138.564" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="270" y1="155.885" x2="270" y2="138.564" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="290,155.885 310,155.885 300,138.564 " style="fill:midnightblue;stroke:midnightblue;stroke-width:.4" />
+<line x1="290" y1="155.885" x2="300" y2="138.564" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="300" y1="138.564" x2="310" y2="155.885" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="300" y1="138.564" x2="300" y2="155.885" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="300,138.564 280,138.564 290,155.885 " style="fill:midnightblue;stroke:midnightblue;stroke-width:.4" />
+<line x1="300" y1="138.564" x2="290" y2="155.885" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="290" y1="155.885" x2="280" y2="138.564" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="290" y1="155.885" x2="290" y2="138.564" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="310,155.885 330,155.885 320,138.564 " style="fill:midnightblue;stroke:midnightblue;stroke-width:.4" />
+<line x1="310" y1="155.885" x2="320" y2="138.564" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="320" y1="138.564" x2="330" y2="155.885" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="320" y1="138.564" x2="320" y2="155.885" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="320,138.564 300,138.564 310,155.885 " style="fill:midnightblue;stroke:midnightblue;stroke-width:.4" />
+<line x1="320" y1="138.564" x2="310" y2="155.885" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="310" y1="155.885" x2="300" y2="138.564" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="310" y1="155.885" x2="310" y2="138.564" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="340,138.564 320,138.564 330,155.885 " style="fill:midnightblue;stroke:midnightblue;stroke-width:.4" />
+<line x1="340" y1="138.564" x2="330" y2="155.885" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="330" y1="155.885" x2="320" y2="138.564" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="330" y1="155.885" x2="330" y2="138.564" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="160,173.205 180,173.205 170,155.885 " style="fill:lightsteelblue;stroke:lightsteelblue;stroke-width:.4" />
+<line x1="160" y1="173.205" x2="180" y2="173.205" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="170" y1="155.885" x2="180" y2="173.205" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="180" y1="173.205" x2="165" y2="164.545" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="170,155.885 150,155.885 160,173.205 " style="fill:lightsteelblue;stroke:lightsteelblue;stroke-width:.4" />
+<line x1="170" y1="155.885" x2="150" y2="155.885" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="160" y1="173.205" x2="150" y2="155.885" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="150" y1="155.885" x2="165" y2="164.545" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="180,173.205 200,173.205 190,155.885 " style="fill:lightsteelblue;stroke:lightsteelblue;stroke-width:.4" />
+<line x1="180" y1="173.205" x2="200" y2="173.205" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="190" y1="155.885" x2="200" y2="173.205" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="200" y1="173.205" x2="185" y2="164.545" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="190,155.885 170,155.885 180,173.205 " style="fill:lightsteelblue;stroke:lightsteelblue;stroke-width:.4" />
+<line x1="190" y1="155.885" x2="170" y2="155.885" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="180" y1="173.205" x2="170" y2="155.885" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="170" y1="155.885" x2="185" y2="164.545" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="200,173.205 220,173.205 210,155.885 " style="fill:lightsteelblue;stroke:lightsteelblue;stroke-width:.4" />
+<line x1="200" y1="173.205" x2="220" y2="173.205" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="210" y1="155.885" x2="220" y2="173.205" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="220" y1="173.205" x2="205" y2="164.545" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="210,155.885 190,155.885 200,173.205 " style="fill:lightsteelblue;stroke:lightsteelblue;stroke-width:.4" />
+<line x1="210" y1="155.885" x2="190" y2="155.885" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="200" y1="173.205" x2="190" y2="155.885" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="190" y1="155.885" x2="205" y2="164.545" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="220,173.205 240,173.205 230,155.885 " style="fill:lightsteelblue;stroke:lightsteelblue;stroke-width:.4" />
+<line x1="220" y1="173.205" x2="240" y2="173.205" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="230" y1="155.885" x2="240" y2="173.205" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="240" y1="173.205" x2="225" y2="164.545" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="230,155.885 210,155.885 220,173.205 " style="fill:lightsteelblue;stroke:lightsteelblue;stroke-width:.4" />
+<line x1="230" y1="155.885" x2="210" y2="155.885" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="220" y1="173.205" x2="210" y2="155.885" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="210" y1="155.885" x2="225" y2="164.545" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="240,173.205 260,173.205 250,155.885 " style="fill:lightsteelblue;stroke:lightsteelblue;stroke-width:.4" />
+<line x1="240" y1="173.205" x2="260" y2="173.205" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="250" y1="155.885" x2="260" y2="173.205" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="260" y1="173.205" x2="245" y2="164.545" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="250,155.885 230,155.885 240,173.205 " style="fill:lightsteelblue;stroke:lightsteelblue;stroke-width:.4" />
+<line x1="250" y1="155.885" x2="230" y2="155.885" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="240" y1="173.205" x2="230" y2="155.885" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="230" y1="155.885" x2="245" y2="164.545" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="260,173.205 280,173.205 270,155.885 " style="fill:midnightblue;stroke:midnightblue;stroke-width:.4" />
+<line x1="260" y1="173.205" x2="270" y2="155.885" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="270" y1="155.885" x2="280" y2="173.205" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="270" y1="155.885" x2="270" y2="173.205" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="270,155.885 250,155.885 260,173.205 " style="fill:midnightblue;stroke:midnightblue;stroke-width:.4" />
+<line x1="270" y1="155.885" x2="260" y2="173.205" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="260" y1="173.205" x2="250" y2="155.885" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="260" y1="173.205" x2="260" y2="155.885" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="280,173.205 300,173.205 290,155.885 " style="fill:midnightblue;stroke:midnightblue;stroke-width:.4" />
+<line x1="280" y1="173.205" x2="290" y2="155.885" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="290" y1="155.885" x2="300" y2="173.205" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="290" y1="155.885" x2="290" y2="173.205" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="290,155.885 270,155.885 280,173.205 " style="fill:midnightblue;stroke:midnightblue;stroke-width:.4" />
+<line x1="290" y1="155.885" x2="280" y2="173.205" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="280" y1="173.205" x2="270" y2="155.885" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="280" y1="173.205" x2="280" y2="155.885" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="300,173.205 320,173.205 310,155.885 " style="fill:midnightblue;stroke:midnightblue;stroke-width:.4" />
+<line x1="300" y1="173.205" x2="310" y2="155.885" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="310" y1="155.885" x2="320" y2="173.205" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="310" y1="155.885" x2="310" y2="173.205" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="310,155.885 290,155.885 300,173.205 " style="fill:midnightblue;stroke:midnightblue;stroke-width:.4" />
+<line x1="310" y1="155.885" x2="300" y2="173.205" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="300" y1="173.205" x2="290" y2="155.885" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="300" y1="173.205" x2="300" y2="155.885" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="330,155.885 310,155.885 320,173.205 " style="fill:midnightblue;stroke:midnightblue;stroke-width:.4" />
+<line x1="330" y1="155.885" x2="320" y2="173.205" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="320" y1="173.205" x2="310" y2="155.885" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="320" y1="173.205" x2="320" y2="155.885" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="170,190.526 190,190.526 180,173.205 " style="fill:lightsteelblue;stroke:lightsteelblue;stroke-width:.4" />
+<line x1="170" y1="190.526" x2="190" y2="190.526" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="180" y1="173.205" x2="190" y2="190.526" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="190" y1="190.526" x2="175" y2="181.865" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="180,173.205 160,173.205 170,190.526 " style="fill:lightsteelblue;stroke:lightsteelblue;stroke-width:.4" />
+<line x1="180" y1="173.205" x2="160" y2="173.205" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="170" y1="190.526" x2="160" y2="173.205" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="160" y1="173.205" x2="175" y2="181.865" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="190,190.526 210,190.526 200,173.205 " style="fill:lightsteelblue;stroke:lightsteelblue;stroke-width:.4" />
+<line x1="190" y1="190.526" x2="210" y2="190.526" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="200" y1="173.205" x2="210" y2="190.526" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="210" y1="190.526" x2="195" y2="181.865" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="200,173.205 180,173.205 190,190.526 " style="fill:lightsteelblue;stroke:lightsteelblue;stroke-width:.4" />
+<line x1="200" y1="173.205" x2="180" y2="173.205" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="190" y1="190.526" x2="180" y2="173.205" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="180" y1="173.205" x2="195" y2="181.865" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="210,190.526 230,190.526 220,173.205 " style="fill:lightsteelblue;stroke:lightsteelblue;stroke-width:.4" />
+<line x1="210" y1="190.526" x2="230" y2="190.526" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="220" y1="173.205" x2="230" y2="190.526" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="230" y1="190.526" x2="215" y2="181.865" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="220,173.205 200,173.205 210,190.526 " style="fill:lightsteelblue;stroke:lightsteelblue;stroke-width:.4" />
+<line x1="220" y1="173.205" x2="200" y2="173.205" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="210" y1="190.526" x2="200" y2="173.205" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="200" y1="173.205" x2="215" y2="181.865" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="230,190.526 250,190.526 240,173.205 " style="fill:lightsteelblue;stroke:lightsteelblue;stroke-width:.4" />
+<line x1="230" y1="190.526" x2="250" y2="190.526" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="240" y1="173.205" x2="250" y2="190.526" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="250" y1="190.526" x2="235" y2="181.865" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="240,173.205 220,173.205 230,190.526 " style="fill:lightsteelblue;stroke:lightsteelblue;stroke-width:.4" />
+<line x1="240" y1="173.205" x2="220" y2="173.205" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="230" y1="190.526" x2="220" y2="173.205" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="220" y1="173.205" x2="235" y2="181.865" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="250,190.526 270,190.526 260,173.205 " style="fill:lightsteelblue;stroke:lightsteelblue;stroke-width:.4" />
+<line x1="250" y1="190.526" x2="270" y2="190.526" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="260" y1="173.205" x2="270" y2="190.526" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="270" y1="190.526" x2="255" y2="181.865" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="260,173.205 240,173.205 250,190.526 " style="fill:lightsteelblue;stroke:lightsteelblue;stroke-width:.4" />
+<line x1="260" y1="173.205" x2="240" y2="173.205" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="250" y1="190.526" x2="240" y2="173.205" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="240" y1="173.205" x2="255" y2="181.865" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="270,190.526 290,190.526 280,173.205 " style="fill:midnightblue;stroke:midnightblue;stroke-width:.4" />
+<line x1="270" y1="190.526" x2="280" y2="173.205" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="280" y1="173.205" x2="290" y2="190.526" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="280" y1="173.205" x2="280" y2="190.526" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="280,173.205 260,173.205 270,190.526 " style="fill:midnightblue;stroke:midnightblue;stroke-width:.4" />
+<line x1="280" y1="173.205" x2="270" y2="190.526" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="270" y1="190.526" x2="260" y2="173.205" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="270" y1="190.526" x2="270" y2="173.205" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="290,190.526 310,190.526 300,173.205 " style="fill:midnightblue;stroke:midnightblue;stroke-width:.4" />
+<line x1="290" y1="190.526" x2="300" y2="173.205" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="300" y1="173.205" x2="310" y2="190.526" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="300" y1="173.205" x2="300" y2="190.526" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="300,173.205 280,173.205 290,190.526 " style="fill:midnightblue;stroke:midnightblue;stroke-width:.4" />
+<line x1="300" y1="173.205" x2="290" y2="190.526" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="290" y1="190.526" x2="280" y2="173.205" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="290" y1="190.526" x2="290" y2="173.205" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="320,173.205 300,173.205 310,190.526 " style="fill:midnightblue;stroke:midnightblue;stroke-width:.4" />
+<line x1="320" y1="173.205" x2="310" y2="190.526" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="310" y1="190.526" x2="300" y2="173.205" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="310" y1="190.526" x2="310" y2="173.205" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="180,207.846 200,207.846 190,190.526 " style="fill:lightsteelblue;stroke:lightsteelblue;stroke-width:.4" />
+<line x1="180" y1="207.846" x2="200" y2="207.846" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="190" y1="190.526" x2="200" y2="207.846" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="200" y1="207.846" x2="185" y2="199.186" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="190,190.526 170,190.526 180,207.846 " style="fill:lightsteelblue;stroke:lightsteelblue;stroke-width:.4" />
+<line x1="190" y1="190.526" x2="170" y2="190.526" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="180" y1="207.846" x2="170" y2="190.526" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="170" y1="190.526" x2="185" y2="199.186" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="200,207.846 220,207.846 210,190.526 " style="fill:lightsteelblue;stroke:lightsteelblue;stroke-width:.4" />
+<line x1="200" y1="207.846" x2="220" y2="207.846" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="210" y1="190.526" x2="220" y2="207.846" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="220" y1="207.846" x2="205" y2="199.186" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="210,190.526 190,190.526 200,207.846 " style="fill:lightsteelblue;stroke:lightsteelblue;stroke-width:.4" />
+<line x1="210" y1="190.526" x2="190" y2="190.526" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="200" y1="207.846" x2="190" y2="190.526" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="190" y1="190.526" x2="205" y2="199.186" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="220,207.846 240,207.846 230,190.526 " style="fill:lightsteelblue;stroke:lightsteelblue;stroke-width:.4" />
+<line x1="220" y1="207.846" x2="240" y2="207.846" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="230" y1="190.526" x2="240" y2="207.846" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="240" y1="207.846" x2="225" y2="199.186" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="230,190.526 210,190.526 220,207.846 " style="fill:lightsteelblue;stroke:lightsteelblue;stroke-width:.4" />
+<line x1="230" y1="190.526" x2="210" y2="190.526" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="220" y1="207.846" x2="210" y2="190.526" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="210" y1="190.526" x2="225" y2="199.186" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="240,207.846 260,207.846 250,190.526 " style="fill:lightsteelblue;stroke:lightsteelblue;stroke-width:.4" />
+<line x1="240" y1="207.846" x2="260" y2="207.846" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="250" y1="190.526" x2="260" y2="207.846" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="260" y1="207.846" x2="245" y2="199.186" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="250,190.526 230,190.526 240,207.846 " style="fill:lightsteelblue;stroke:lightsteelblue;stroke-width:.4" />
+<line x1="250" y1="190.526" x2="230" y2="190.526" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="240" y1="207.846" x2="230" y2="190.526" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="230" y1="190.526" x2="245" y2="199.186" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="260,207.846 280,207.846 270,190.526 " style="fill:lightsteelblue;stroke:lightsteelblue;stroke-width:.4" />
+<line x1="260" y1="207.846" x2="280" y2="207.846" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="270" y1="190.526" x2="280" y2="207.846" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="280" y1="207.846" x2="265" y2="199.186" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="270,190.526 250,190.526 260,207.846 " style="fill:lightsteelblue;stroke:lightsteelblue;stroke-width:.4" />
+<line x1="270" y1="190.526" x2="250" y2="190.526" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="260" y1="207.846" x2="250" y2="190.526" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="250" y1="190.526" x2="265" y2="199.186" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="280,207.846 300,207.846 290,190.526 " style="fill:midnightblue;stroke:midnightblue;stroke-width:.4" />
+<line x1="280" y1="207.846" x2="290" y2="190.526" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="290" y1="190.526" x2="300" y2="207.846" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="290" y1="190.526" x2="290" y2="207.846" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="290,190.526 270,190.526 280,207.846 " style="fill:midnightblue;stroke:midnightblue;stroke-width:.4" />
+<line x1="290" y1="190.526" x2="280" y2="207.846" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="280" y1="207.846" x2="270" y2="190.526" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="280" y1="207.846" x2="280" y2="190.526" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="310,190.526 290,190.526 300,207.846 " style="fill:midnightblue;stroke:midnightblue;stroke-width:.4" />
+<line x1="310" y1="190.526" x2="300" y2="207.846" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="300" y1="207.846" x2="290" y2="190.526" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="300" y1="207.846" x2="300" y2="190.526" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="190,225.167 210,225.167 200,207.846 " style="fill:lightsteelblue;stroke:lightsteelblue;stroke-width:.4" />
+<line x1="190" y1="225.167" x2="210" y2="225.167" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="200" y1="207.846" x2="210" y2="225.167" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="210" y1="225.167" x2="195" y2="216.506" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="200,207.846 180,207.846 190,225.167 " style="fill:lightsteelblue;stroke:lightsteelblue;stroke-width:.4" />
+<line x1="200" y1="207.846" x2="180" y2="207.846" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="190" y1="225.167" x2="180" y2="207.846" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="180" y1="207.846" x2="195" y2="216.506" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="210,225.167 230,225.167 220,207.846 " style="fill:lightsteelblue;stroke:lightsteelblue;stroke-width:.4" />
+<line x1="210" y1="225.167" x2="230" y2="225.167" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="220" y1="207.846" x2="230" y2="225.167" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="230" y1="225.167" x2="215" y2="216.506" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="220,207.846 200,207.846 210,225.167 " style="fill:lightsteelblue;stroke:lightsteelblue;stroke-width:.4" />
+<line x1="220" y1="207.846" x2="200" y2="207.846" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="210" y1="225.167" x2="200" y2="207.846" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="200" y1="207.846" x2="215" y2="216.506" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="230,225.167 250,225.167 240,207.846 " style="fill:lightsteelblue;stroke:lightsteelblue;stroke-width:.4" />
+<line x1="230" y1="225.167" x2="250" y2="225.167" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="240" y1="207.846" x2="250" y2="225.167" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="250" y1="225.167" x2="235" y2="216.506" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="240,207.846 220,207.846 230,225.167 " style="fill:lightsteelblue;stroke:lightsteelblue;stroke-width:.4" />
+<line x1="240" y1="207.846" x2="220" y2="207.846" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="230" y1="225.167" x2="220" y2="207.846" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="220" y1="207.846" x2="235" y2="216.506" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="250,225.167 270,225.167 260,207.846 " style="fill:lightsteelblue;stroke:lightsteelblue;stroke-width:.4" />
+<line x1="250" y1="225.167" x2="270" y2="225.167" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="260" y1="207.846" x2="270" y2="225.167" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="270" y1="225.167" x2="255" y2="216.506" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="260,207.846 240,207.846 250,225.167 " style="fill:lightsteelblue;stroke:lightsteelblue;stroke-width:.4" />
+<line x1="260" y1="207.846" x2="240" y2="207.846" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="250" y1="225.167" x2="240" y2="207.846" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="240" y1="207.846" x2="255" y2="216.506" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="270,225.167 290,225.167 280,207.846 " style="fill:lightsteelblue;stroke:lightsteelblue;stroke-width:.4" />
+<line x1="270" y1="225.167" x2="290" y2="225.167" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="280" y1="207.846" x2="290" y2="225.167" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="290" y1="225.167" x2="275" y2="216.506" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="280,207.846 260,207.846 270,225.167 " style="fill:lightsteelblue;stroke:lightsteelblue;stroke-width:.4" />
+<line x1="280" y1="207.846" x2="260" y2="207.846" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="270" y1="225.167" x2="260" y2="207.846" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="260" y1="207.846" x2="275" y2="216.506" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<polygon points="300,207.846 280,207.846 290,225.167 " style="fill:midnightblue;stroke:midnightblue;stroke-width:.4" />
+<line x1="300" y1="207.846" x2="290" y2="225.167" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="290" y1="225.167" x2="280" y2="207.846" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+<line x1="290" y1="225.167" x2="290" y2="207.846" style="stroke:rgb(0,0,0);stroke-width:.5" stroke-linecap = "round" />
+</svg>

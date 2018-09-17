@@ -569,9 +569,9 @@ void LozengeTiler::TilingToSVG(const tiling &t, std::string filename) {
 
 	outputFile << "<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink=\"http://www.w3.org/1999/xlink\" height=\"433.013\" width=\"500\" viewBox=\"0 0 "<<3/2.0*M<<" "<<3/2.0*M<<"\" preserveAspectRatio=\"none\">\n";
 	outputFile << "<defs>\n";
-	outputFile << "<g id=\"r\">  <polygon points = \"0,0 -1,0 -.5,-1 .5,-1\" fill=\"darkblue\"/> </g>\n";
-	outputFile << "<g id=\"g\">  <polygon points = \"0,0 1,0 .5,-1 -.5,-1\" fill=\"darkcyan\"/> </g>\n";
-	outputFile << "<g id=\"b\">  <polygon points = \"0,0 .5,-1 1,0 .5,1\" fill=\"cadetblue\"/> </g>\n";
+	outputFile << "<g id=\"r\">  <polygon points = \"0,0 -1,0 -.5,-1 .5,-1\" fill=\"midnightblue\"/> </g>\n";
+	outputFile << "<g id=\"g\">  <polygon points = \"0,0 1,0 .5,-1 -.5,-1\" fill=\"lightsteelblue\"/> </g>\n";
+	outputFile << "<g id=\"b\">  <polygon points = \"0,0 .5,-1 1,0 .5,1\" fill=\"slategrey\"/> </g>\n";
 	outputFile<<"</defs>\n";
 
 	//draw dimers
@@ -595,8 +595,8 @@ void LozengeTiler::DomainToSVG(const domain &d, std::string filename) {
 
 	outputFile << "<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink=\"http://www.w3.org/1999/xlink\" height=\"433.013\" width=\"500\" viewBox=\"0 0 "<<3/2.0*M<<" "<<3/2.0*M<<"\" preserveAspectRatio=\"none\">\n";
 	outputFile << "<defs>\n";
-	outputFile << "<g id=\"w\">  <polygon points = \"0,1 .5,0 1,1\" fill=\"paleturquoise\"/> </g>\n"; //upward triangle
-	outputFile << "<g id=\"b\">  <polygon points = \"0,0 1,0 .5,1\" fill=\"deepskyblue\"/> </g>\n"; //downward triangle
+	outputFile << "<g id=\"w\">  <polygon points = \"0,1 .5,0 1,1\" fill=\"lightsteelblue\"/> </g>\n"; //upward triangle
+	outputFile << "<g id=\"b\">  <polygon points = \"0,0 1,0 .5,1\" fill=\"slategrey\"/> </g>\n"; //downward triangle
 	outputFile << "</defs>\n";
 
 	for (int i = 0; i < M; i++) {
